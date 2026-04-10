@@ -5,7 +5,7 @@ The goal is to understand how international industry classification systems alig
 
 ---
 
-## 📌 Objective
+## Objective
 
 - Select 25 NACE Rev.2 classes  
 - Map each to ISIC Rev.4  
@@ -17,7 +17,7 @@ The goal is to understand how international industry classification systems alig
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 1. Used official NACE and ISIC documentation  
 2. Compared class definitions (not just codes)  
@@ -29,7 +29,7 @@ The goal is to understand how international industry classification systems alig
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 The project includes:
 - Bar chart → distribution of match types  
@@ -39,4 +39,3 @@ These help highlight how often classifications align exactly versus where struct
 
 ---
 
-## 📁 Project Structure
